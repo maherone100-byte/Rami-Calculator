@@ -1,6 +1,6 @@
 {
   "name": "حاسبة الرامي",
-  "short_name": "الرامي",
+  "short_name": "حاسبة الرامي",
   "description": "تطبيق لحساب نقاط لعبة الرمي بين الأصدقاء",
   "start_url": "./index.html",
   "scope": "./",
