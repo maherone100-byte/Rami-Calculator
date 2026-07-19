@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.maherone100_byte.twa",
+    "sha256_cert_fingerprints": ["BF:8C:A3:20:74:39:39:4B:14:E2:7B:65:B7:2B:4D:62:37:2D:5B:C8:99:00:6E:FD:65:39:DC:51:1D:52:C3:55"]
+  }
+}]
